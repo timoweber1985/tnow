@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (User)</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 12:39:57</sys_created_on>
+        <sys_id>6a490d041b56c05039d963913d4bcb17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (User)</sys_name>
+        <sys_package display_value="NeverendingToDos" source="x_snc_neverentodos">99f64d8c1b16c05039d963913d4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeverendingToDos">99f64d8c1b16c05039d963913d4bcb55</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_6a490d041b56c05039d963913d4bcb17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 12:39:57</sys_updated_on>
+        <table>sys_user</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=6a490d041b56c05039d963913d4bcb17"/>
+</record_update>

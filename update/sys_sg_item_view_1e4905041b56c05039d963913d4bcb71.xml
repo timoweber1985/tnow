@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="NeverendingToDos NeverendingToDos">1a4905041b56c05039d963913d4bcb70</data_item>
+        <dependency_fields>description,due_date,number,number_2,responsible,short_description</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"CornerRadius":2,"CellId":"description","MaxLines":1,"studio_template_field_id":"E1","BackgroundColor":"#f1f1f1","Font":{"Weight":"semibold","Size":13},"TextAlignment":"Center","TextColor":"#293e40","Width":100,"Height":21,"Text":"","Type":"Text"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"CellId":"due_date","MaxLines":1,"studio_template_field_id":"E2","Font":{"Weight":"regular","Size":13},"TextAlignment":"Right","TextColor":"#7d8a8c","Text":"","Type":"Text"}],"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Type":"ViewGroup"},{"CellId":"number","MaxLines":2,"studio_template_field_id":"E3","Font":{"Weight":"regular","Size":18},"TextAlignment":"Left","TextColor":"#293e40","Text":"","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"MaxLines":1,"studio_template_field_id":"E4","Font":{"Weight":"regular","Size":13},"TextAlignment":"Left","TextColor":"#7d8a8c","Text":"Number 2","studio_template_is_label":true,"Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"responsible","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"CellId":"number_2","MaxLines":1,"studio_template_field_id":"E4","Font":{"Weight":"regular","Size":13},"TextAlignment":"Left","TextColor":"#293e40","Text":"","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"MaxLines":1,"studio_template_field_id":"E6","Font":{"Weight":"regular","Size":13},"TextAlignment":"Left","TextColor":"#7d8a8c","Text":"Short Description","studio_template_is_label":true,"Margin":{"Right":8},"Type":"Text"},{"CellId":"short_description","MaxLines":1,"studio_template_field_id":"E6","Font":{"Weight":"regular","Size":13},"TextAlignment":"Left","TextColor":"#293e40","Text":"","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>NeverendingToDos Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 12:39:56</sys_created_on>
+        <sys_id>1e4905041b56c05039d963913d4bcb71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeverendingToDos Detail Screen Item View</sys_name>
+        <sys_package display_value="NeverendingToDos" source="x_snc_neverentodos">99f64d8c1b16c05039d963913d4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeverendingToDos">99f64d8c1b16c05039d963913d4bcb55</sys_scope>
+        <sys_update_name>sys_sg_item_view_1e4905041b56c05039d963913d4bcb71</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 12:39:56</sys_updated_on>
+        <table>x_snc_neverentodos_neverendingtodos</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=1e4905041b56c05039d963913d4bcb71"/>
+</record_update>

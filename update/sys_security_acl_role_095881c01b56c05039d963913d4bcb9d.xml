@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 12:35:45</sys_created_on>
+        <sys_id>095881c01b56c05039d963913d4bcb9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_neverentodos_neverendingtodos.x_snc_neverentodos.reader</sys_name>
+        <sys_package display_value="NeverendingToDos" source="x_snc_neverentodos">99f64d8c1b16c05039d963913d4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeverendingToDos">99f64d8c1b16c05039d963913d4bcb55</sys_scope>
+        <sys_security_acl display_value="x_snc_neverentodos_neverendingtodos">c55881c01b56c05039d963913d4bcb99</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_095881c01b56c05039d963913d4bcb9d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 12:35:45</sys_updated_on>
+        <sys_user_role display_value="x_snc_neverentodos.reader" name="x_snc_neverentodos.reader">5b07c5481b16c05039d963913d4bcb7d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
